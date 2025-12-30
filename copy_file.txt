@@ -1,0 +1,12 @@
+1. Making websites  
+2. Working with data (like graphs and numbers)  
+3. Creating smart programs (AI and machine learning)  
+4. Automating tasks (like sending emails, renaming files)  
+5. Making games  
+6. Creating apps for your computer  
+7. Testing and finding bugs in security  
+8. Working with small devices (like Raspberry Pi)  
+9. Saving and reading data from databases  
+10. Collecting data from websites (web scraping)
+
+Python is easy to learn and very powerful!
